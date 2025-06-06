@@ -5,7 +5,7 @@ These are instructions for using this repo to create and deploy a Minecraft serv
 - Terraform v1.12.1 installed
 - Amazon AWS CLI 2.27.25 installed
 - Amazon AWS Credentials
-  - 
+  - Key id, secret key, and token all stored in a file
 
 ## Tutorial
 
